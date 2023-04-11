@@ -1,0 +1,8 @@
+{
+    "name": "comp2171-groupproject/database",
+    "description": "This stores and retrieves data",
+    "type": "library",
+    "license": "na",
+    "minimum-stability": "dev",
+    "require": {}
+}
